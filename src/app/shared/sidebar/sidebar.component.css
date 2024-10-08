@@ -1,0 +1,6 @@
+.sd-br { background: #222d32; height: 100%; color:#fff; min-height: 500px;}
+.profile-card .mat-mdc-card-header { display: none;}
+.side-menu-bar ul{list-style: none; padding:0px;}
+.side-menu-bar ul li{ padding:5px 35px 0px 10px;}
+.side-menu-bar ul li a {font-size: 15px; color: #fff; text-decoration: none;}
+.side-menu-bar ul li .icon{font-size: 15px; padding-top: 10px;}

@@ -25,9 +25,10 @@
               "src/assets"
             ],
             "styles": [
+              "src/custom-theme.scss",
               "src/styles.css"
             ],
-            "scripts": [],
+            "scripts": ["src/assets/js/utility.js"],
             "server": "src/main.server.ts",
             "prerender": true,
             "ssr": {
@@ -91,10 +92,15 @@
             "styles": [
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+            "./src/assets/js/utility.js"
+          ]
           }
         }
       }
     }
+  },
+  "cli": {
+    "analytics": false
   }
 }

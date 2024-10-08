@@ -1,0 +1,17 @@
+.profile .box{background-color: #fff; text-align: center; padding: 50px 20px; margin-bottom: 20px;    
+    border: 1px solid #e1e1e1; border-radius: 4px;}
+.profile .box img{width: 50px;}
+.profile .box a {    text-decoration: none;    color: #333;}
+.profile{margin-top: 20px; margin-bottom: 50px;}
+.profile h1.hd-title {  font-size: 30px; margin: 30px 0px; }
+.profile .line-rd { width: 100%;  max-width: 250px;  height: 4px; background-color: #d085ff;    border-radius: 5px; margin: 10px auto;}
+.profile .line-or { width: 100%;  max-width: 250px;  height: 4px; background-color: #f4c500;    border-radius: 5px; margin: 10px auto;}
+.profile .line-yl { width: 100%;  max-width: 250px;  height: 4px; background-color: #ff8f5e;    border-radius: 5px; margin: 10px auto;}
+.profile .line-gr { width: 100%;  max-width: 250px;  height: 4px; background-color: #13af4b;    border-radius: 5px; margin: 10px auto;}
+
+
+header {width: 100%; margin-right: 10px; background:powderblue; text-align: center; 
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;}
